@@ -5,21 +5,6 @@
 </br>
 
 
-</br>
-</br>
-</br>
-
-# Konichiwa 👋
-
-<div align="center">
-<img hight="300" width="700" alt="GIF" align="center" src="">
-</div>
-
-</br>
-</br>
-</br>
-
-
 About ME 💬 :
 
 ### - I'm 20 years  old Machine Learning & Artificial Intelligence Enthusiast from India.
@@ -78,9 +63,12 @@ If you want to reach out to me about anything, be it some doubt or just to hango
 
 <a href="mailto: balamurugankarthikeyan30@gmail.com">
  <img align="left" alt="Gmail" width="130" hight="100" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/gmail.png" />
+ </a>
+<a href="https://https://www.linkedin.com/in/balamurugankarthikeyan/">
+  <img align="left" alt="Linkedin" width="150" hight="100" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/linkedin.png" />
 </a>
 <a
-<a <h3 align="center">A passionate frontend developer from India</h3>
+<a <h3 align="center">A passionate frontend developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=balamurugan-cyber&label=Profile%20views&color=0e75b6&style=flat" alt="balamurugan-cyber" /> </p>
 

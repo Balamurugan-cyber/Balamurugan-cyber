@@ -25,7 +25,8 @@
 - ✨ Generative Adversarial Networks
 
 ### - Hobbies : 
-- ✨ Gaming Addict
+- ✨ chess
+- ✨ Gaming 
 - ✨ Watching Anime
 - ✨ Reading Light Novels
 - ✨ Badminton (Neighbourhood Professional XD)

@@ -84,9 +84,6 @@ If you want to reach out to me about anything, be it some doubt or just to hango
 <p align="left">
 </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=balamurugan-cyber&show_icons=true&locale=en&layout=compact" alt="balamurugan-cyber" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=balamurugan-cyber&" alt="balamurugan-cyber" /></p>
 
 </br>
 </br>

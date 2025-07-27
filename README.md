@@ -72,12 +72,12 @@ If you want to reach out to me about anything, be it some doubt or just to hango
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=balamurugan-cyber" alt="balamurugan-cyber" /></a> </p>
 
- 🔥 GitHub Streak Stats
+  GitHub Streak Stats
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Balamurugan-cyber&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
-## GitHub Contribution 
+ GitHub Contribution 
 <p align="center">
   <img src="https://ghchart.rshah.org/8e24aa/Balamurugan-cyber" alt="GitHub Streak Chart" />
 </p>

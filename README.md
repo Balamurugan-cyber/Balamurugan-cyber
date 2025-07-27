@@ -1,7 +1,8 @@
-## yo!,folks.....👋
+## yo!.,
 
-<!--
-**Balamurugan-cyber/Balamurugan-cyber** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+</br>
+</br>
+</br>
 
 
 </br>

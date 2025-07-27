@@ -53,10 +53,6 @@ About ME 💬 :
 
 # Contact Me :
 
-<p>
- </br>
-
-
 If you want to reach out to me about anything, be it some doubt or just to hangout and talk or want to game together just ping me 😉.
 
 <a href="mailto: balamurugankarthikeyan30@gmail.com">
@@ -65,7 +61,7 @@ If you want to reach out to me about anything, be it some doubt or just to hango
 <a href="https://www.linkedin.com/in/balamurugankarthikeyan/">
   <img align="left" alt="Linkedin" width="150" hight="100" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/linkedin.png" />
 </a>
-<a
+<a>
 <a <h3 align="center">A passionate frontend developer</h3>
 
 

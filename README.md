@@ -90,6 +90,6 @@ If you want to reach out to me about anything, be it some doubt or just to hango
 <p align="center">
   <img src="https://ghchart.rshah.org/Balamurugan-cyber" alt="GitHub Contributions Graph" />
 </p>
-
+https://ghchart.rshah.org/2196f3/Balamurugan-cyber
 
 *************

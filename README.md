@@ -93,6 +93,13 @@ If you want to reach out to me about anything, be it some doubt or just to hango
 </br>
 </a>
 
+<h3 align="center">A passionate frontend developer from India</h3>
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=balamurugan-cyber&show_icons=true&locale=en" alt="balamurugan-cyber" /></p>
 
 
 *************

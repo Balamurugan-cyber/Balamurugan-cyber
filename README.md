@@ -12,9 +12,10 @@ About ME 💬 :
 ### - Learning :
 - ✨ Data Structures & Algorithms
 - ✨ Generative Adversarial Networks
+- ✨ Computer Vison
 
 ### - Hobbies : 
-- ✨ chess
+- ✨ Chess
 - ✨ Gaming 
 - ✨ Watching Anime
 - ✨ Reading Light Novels

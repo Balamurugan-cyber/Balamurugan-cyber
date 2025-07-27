@@ -1,4 +1,4 @@
-## Hi there 👋
+## yo! there 👋
 
 <!--
 **Balamurugan-cyber/Balamurugan-cyber** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,7 +16,7 @@
 
 # About ME 💬 :
 
-### - I'm 19 years  old Machine Learning & Artificial Intelligence Enthusiast from India.
+### - I'm 20 years  old Machine Learning & Artificial Intelligence Enthusiast from India.
 
 <img hight="400" width="500" alt="GIF" align="right" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/1936.gif">
 

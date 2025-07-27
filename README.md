@@ -76,8 +76,7 @@ If you want to reach out to me about anything, be it some doubt or just to hango
 </p>
  GitHub Contribution 
 <p align="center">
-<img src="https://ghchart.rshah.org/HEXCOLOR/Balamurugan-cyber" />
+  <img src="https://ghchart.rshah.org/1e88e5/Balamurugan-cyber" alt="GitHub Chart - Royal Blue" />
 </p>
-
 
 *************

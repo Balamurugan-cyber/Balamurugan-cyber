@@ -74,8 +74,20 @@ If you want to reach out to me about anything, be it some doubt or just to hango
  <img align="left" alt="Gmail" width="130" hight="100" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/gmail.png" />
 </a>
 <a
-<a href="https://www.linkedin.com/mwlite/profile/in/balamurugankarthikeyan?utm_source=share&utm_campaign=share>
-  <img align="left" alt="Linkedin" width="150" hight="100" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/linkedin.png" />
+<a <h3 align="center">A passionate frontend developer from India</h3>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=balamurugan-cyber&label=Profile%20views&color=0e75b6&style=flat" alt="balamurugan-cyber" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=balamurugan-cyber" alt="balamurugan-cyber" /></a> </p>
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=balamurugan-cyber&show_icons=true&locale=en&layout=compact" alt="balamurugan-cyber" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=balamurugan-cyber&" alt="balamurugan-cyber" /></p>
+
 </br>
 </br>
 </br>

@@ -93,6 +93,10 @@ If you want to reach out to me about anything, be it some doubt or just to hango
 </br>
 </a>
 
+## 🔥 GitHub Streak Stats
 
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Balamurugan-cyber&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
 
 *************

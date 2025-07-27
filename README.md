@@ -88,8 +88,8 @@ If you want to reach out to me about anything, be it some doubt or just to hango
 ## GitHub Contribution 
 
 <p align="center">
-  <img src="https://ghchart.rshah.org/Balamurugan-cyber" alt="GitHub Contributions Graph" />
+  <img src="<img src="https://ghchart.rshah.org/2196f3/Balamurugan-cyber" />
 </p>
-https://ghchart.rshah.org/2196f3/Balamurugan-cyber
+
 
 *************

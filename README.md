@@ -85,6 +85,10 @@ If you want to reach out to me about anything, be it some doubt or just to hango
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Balamurugan-cyber&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
-https://ghchart.rshah.org/Balamurugan-cyber
+## 📊 GitHub Contribution Graph
+
+<p align="center">
+  <img src="https://ghchart.rshah.org/Balamurugan-cyber" alt="GitHub Contributions Graph" />
+</p>r
 
 *************

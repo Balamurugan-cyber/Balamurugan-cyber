@@ -74,7 +74,7 @@ If you want to reach out to me about anything, be it some doubt or just to hango
  <img align="left" alt="Gmail" width="130" hight="100" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/gmail.png" />
 </a>
 <a
-<a href="https://://www.linkedin.com/mwlite/profile/in/balamurugankarthikeyan?utm_source=share&utm_campaign=share>
+<a href="https://www.linkedin.com/mwlite/profile/in/balamurugankarthikeyan?utm_source=share&utm_campaign=share>
   <img align="left" alt="Linkedin" width="150" hight="100" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/linkedin.png" />
 </br>
 </br>
@@ -84,7 +84,8 @@ If you want to reach out to me about anything, be it some doubt or just to hango
 
 
 <p align="center" >  
-  <a href="https://https://github.com/Balamurugan-cyber   -readme-stats"> 
+  <a href="https://github.com/Balamurugan-cyber  
+ -readme-stats"> 
 <img  src="https://github-readme-stats.vercel.app/api?username=Xx-Ashutosh-xX&&show_icons=true&theme=radical"/>
   </a>
   </p>

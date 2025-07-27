@@ -7,7 +7,7 @@
 
 About ME 💬 :
 
-### - I'm 20 years  old Machine Learning & Artificial Intelligence Enthusiast from India.
+### - A 20-year-old Machine Learning and Artificial Intelligence enthusiast based in India, driven by a deep interest in emerging technologies.
 
 <img hight="400" width="500" alt="GIF" align="right" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/1936.gif">
 

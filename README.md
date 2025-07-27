@@ -73,7 +73,9 @@ If you want to reach out to me about anything, be it some doubt or just to hango
 <a href="mailto: balamurugankarthikeyan30@gmail.com">
  <img align="left" alt="Gmail" width="130" hight="100" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/gmail.png" />
 </a>
-<a href="https://www.linkedin.com/mwlite/profile/in/balamurugankarthikeyan?utm_source=share&utm_campaign=share" "left" alt="Linkedin" width="150" hight="100" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/linkedin.png" />
+<a
+<a href="https://://www.linkedin.com/mwlite/profile/in/balamurugankarthikeyan?utm_source=share&utm_campaign=share>
+  <img align="left" alt="Linkedin" width="150" hight="100" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/linkedin.png" />
 </br>
 </br>
 </br>

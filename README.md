@@ -63,11 +63,11 @@ If you want to reach out to me about anything, be it some doubt or just to hango
   <img align="left" alt="Linkedin" width="150" hight="100" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/linkedin.png" />
 </a>
 <a>
-<a <h3 align="center">A passionate frontend developer</h3>
+<a> <h3 align="center">A passionate frontend developer</h3>
 
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=balamurugan-cyber" alt="balamurugan-cyber" /></a> </p>
+<p> align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=balamurugan-cyber" alt="balamurugan-cyber" /></a> </p>
 
   GitHub Streak Stats
 

@@ -64,11 +64,11 @@ If you want to reach out to me about anything, be it some doubt or just to hango
 </a>
 <a>
 
-
+</p>
 
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=balamurugan-cyber" alt="balamurugan-cyber" /></a> </p>
-
+</p>
   GitHub Streak Stats
 
 <p align="center">
